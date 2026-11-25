@@ -1,0 +1,8 @@
+{
+  "name": "Corte30 — Estudio de Guiones y Prompts 3D Virales",
+  "description": "Estudio profesional para crear guiones virales, prompts de animación 3D, giros narrativos cada 30 segundos, subtítulos dinámicos y análisis de tendencias monetizables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
